@@ -20,6 +20,6 @@
     "webextension-polyfill": "^0.7.0"
   },
   "dependencies": {
-    "framework7": "^6.0.12"
+    "framework7": "^6.0.14"
   }
 }
