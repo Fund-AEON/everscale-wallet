@@ -82,6 +82,7 @@ const app = new Framework7({
     root: "#app",
     theme: "aurora",
     autoDarkTheme: true,
+    view:{stackPages: true,},
     dialog: {
         title: 'TONWallet',
     },
@@ -183,3 +184,11 @@ $('#networkChanger').on('click', async () => {
     actions.open();
     actions.$el.addClass('selectNetworkActions')
 })
+
+
+$('#testtest').on('click', async () => {
+    popups.initPage()
+})
+
+
+// popups.initPage()

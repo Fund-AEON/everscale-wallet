@@ -8,6 +8,22 @@ const ROUTES = [
         path: '/accept',
         url: './pages/acceptTransaction.html',
     },
+    {
+        path: '/getSeed',
+        url: './pages/getSeed.html',
+    },
+    {
+        path: '/importSeed',
+        url: './pages/importSeed.html',
+    },
+    {
+        path: '/initPage',
+        url: './pages/initPage.html',
+    },
+    {
+        path: '/policy',
+        url: './pages/policy.html',
+    },
 ]
 
 export default ROUTES;
