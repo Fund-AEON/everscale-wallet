@@ -1,18 +1,18 @@
 {
   "name": "everscalewallet",
-  "version": "0.0.11",
-  "description": "Everscale (ex. FreeTON) network wallet and dapps connectivity provider",
+  "version": "1.0.0",
+  "description": "Everscale network wallet and dapps connectivity provider",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SVOIcom/browser-extension.git"
+    "url": "git+https://github.com/Fund-AEON/everscale-wallet.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SVOIcom/browser-extension/issues"
+    "url": "https://github.com/Fund-AEON/everscale-wallet/issues"
   },
-  "homepage": "https://github.com/SVOIcom/browser-extension#readme",
+  "homepage": "https://github.com/Fund-AEON/everscale-wallet#readme",
   "devDependencies": {
     "webextension-polyfill": "^0.7.0"
   },

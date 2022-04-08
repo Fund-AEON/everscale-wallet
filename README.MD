@@ -2,9 +2,11 @@
 
 # Everscale Wallet
 
-FreeTON network wallet and dapps connectivity provider
+Everscale Wallet - ScaleWallet fork with latest features and improvements.
 
-[everscalewallet.com](https://everscalewallet.com/)
+Everscale network wallet and dapps connectivity provider
+
+[https://github.com/Fund-AEON/everscale-wallet](https://github.com/Fund-AEON/everscale-wallet)
 
 ## Features
 
@@ -44,7 +46,6 @@ You can install extension directly from Chrome Web Store.
 
 ## Developers
 
-Developed by [SVOI.dev team](https://svoi.dev). 
-Sorce code licensed under the Apache-2.0 license
+Originally developed by [SVOI.dev team](https://svoi.dev). 
 
-support@tonwallet.io
+Source code licensed under the Apache-2.0 license
